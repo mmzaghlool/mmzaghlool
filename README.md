@@ -88,6 +88,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmzaghlool&hide=ruby,objective-c,starlark&exclude_repo=Atm-&layout=compact)](https://github.com/mmzaghlool)
 
+## PUBLIC PACKAGES
+
+### General TypeScript lib
+
+<a href="https://www.npmjs.com/package/mmzaghlool"><img align="center" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm profile" height="40" width="60" /></a>
+<a href="https://github.com/mmzaghlool/js-lib"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="npm profile" height="40" width="60" /></a>
+
 ## WORKING EXPERIENCE
 
 ### CURAWELLA
@@ -190,29 +197,6 @@ Contributed projects
     <a href="https://nqraa.com/en/home-page/">
         <img align="center" src="https://nqraa.com/wp-content/uploads/2020/12/44-3.jpg" alt="Curawella" height="40" width="40" />
     </a>
-</p>
-
-<hr />
-
-### SABA3 SANAY3
-
-Freelancing graduation project for students at Pharos University of Alexandria helps in connecting the craftspeople with the customers.
-
-Technologies used
-
-<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 250px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
-<!-- JavaScript -->
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
-
-<!-- React -->
-<img align="center" src="https://raw.githubusercontent.com/rexxars/react-hexagon/master/logo/react-hexagon.png" alt="React" height="40" width="40" />
-
-<!-- Android studio -->
-<img align="center" src="https://www.pngkit.com/png/full/259-2592742_clip-art-free-mobile-app-development-transprent-png.png" alt="android studio" height="40" width="80" />
-
-<!-- Firebase -->
-<img align="center" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase" height="40" width="40" />
-
 </p>
 
 <hr />
