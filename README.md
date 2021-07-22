@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 <a href="mailto:mmzaghlool52@gmail.com"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmai account" height="40" width="40" /></a>
 <a href="https://www.npmjs.com/~mmzaghlool"><img align="center" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm profile" height="40" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCb93KBjFv6rPdB-cggADtig"><img align="center" src="https://ricardoreadingmouse.com.au/wp-content/uploads/2018/04/youtube.png" alt="youtube channel" height="40" width="60" /></a>
+</p>
 
 ## Languages and Tools
 
 <p align="left">
-<a href="#Languages-and-Tools">
+<a href="https://github.com/mmzaghlool/mmzaghlool/blob/main/README.md#languages-and-tools">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="40" width="40" />
 <img align="center" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" alt="Java" height="40" width="40" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
@@ -48,7 +49,6 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmzaghlool&count_private=true&hide=stars,contribs&show_icons=true)](https://github.com/mmzaghlool)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmzaghlool&count_private=true&hide=contribs&show_icons=true)](https://github.com/mmzaghlool)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmzaghlool&hide=ruby,objective-c,starlark&exclude_repo=Atm-&layout=compact)](https://github.com/mmzaghlool)
-
