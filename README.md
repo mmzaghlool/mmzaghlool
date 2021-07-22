@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 
 <p align="left">
+<a href="#Languages-and-Tools">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="40" width="40" />
 <img align="center" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" alt="Java" height="40" width="40" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/800px-Elasticsearch_logo.svg.png" alt="elasticsearch" height="40" width="100" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png" alt="flask" height="40" width="70" />
 <img align="center" src="https://www.pngkit.com/png/full/259-2592742_clip-art-free-mobile-app-development-transprent-png.png" alt="android studio" height="40" width="80" />
-
+</a>
 </p>
 
 ## Github Stats
