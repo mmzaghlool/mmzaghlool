@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## REACH ME
 
-<p align="left">
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 250px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
 <a href="https://www.linkedin.com/in/mmzaghlool/"><img align="center" src="https://icon-library.com/images/linkedin-icon-png-transparent-background/linkedin-icon-png-transparent-background-15.jpg" alt="LinkedIn profile" height="40" width="40" /></a>
 <a href="mailto:mmzaghlool52@gmail.com"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmai account" height="40" width="40" /></a>
 <a href="https://www.npmjs.com/~mmzaghlool"><img align="center" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm profile" height="40" width="60" /></a>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## LANGUAGES and TOOLS
 
-<p align="left">
+<p align="left" style="background-color:white; justify-content: space-evenly; align-items: center; width: 400px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
 
 <!-- Python -->
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="40" width="40" />
@@ -96,7 +96,7 @@ Online healthcare company providing software solutions for doctors, clinics, hos
 
 Technologies used
 
-<p>
+<p style="background-color:white; justify-content: space-evenly; align-items: center; width: 400px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
 <!-- JavaScript -->
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
 
@@ -133,7 +133,7 @@ Technologies used
 
 Resources
 
-<p align="left">
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 120px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
     <a href="https://play.google.com/store/apps/developer?id=Curawella"><img align="center" src="https://i.pinimg.com/originals/71/42/62/714262829697e9749a4aa86b3c1f5538.png" alt="PlayStore" height="40" width="40" /></a>
     <a href="https://apps.apple.com/eg/developer/curawella/id1437764001"><img align="center" src="https://i.pinimg.com/originals/02/b5/1d/02b51dc1b1a6daaabc891ae2da4afcd1.png" alt="AppStore" height="40" width="40" /></a>
     <a href="https://curawella.com"><img align="center" src="https://www.pngkey.com/png/full/365-3652347_business-internet-communist-symbolism.png" alt="AppStore" height="30" width="30" /></a>
@@ -141,7 +141,7 @@ Resources
 
 Contributed projects
 
-<p align="left">
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 200px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
     <a href="https://curawella.com">
         <img align="center" src="https://curawella.com/logo.png" alt="Curawella" height="40" width="40" />
     </a>
@@ -161,7 +161,7 @@ Contributed as mid-senior react-native developer on the project of saudi tech QM
 
 Technologies used
 
-<p>
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 50%; padding: 5px; border-radius: 5px">
 <!-- JavaScript -->
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
 
@@ -178,13 +178,13 @@ Technologies used
 
 Resources
 
-<p align="left">
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 50px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
     <a href="https://nqraa.com/en/home-page/"><img align="center" src="https://www.pngkey.com/png/full/365-3652347_business-internet-communist-symbolism.png" alt="AppStore" height="30" width="30" /></a>
 </p>
 
 Contributed projects
 
-<p align="left">
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 50px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
     <a href="https://nqraa.com/en/home-page/">
         <img align="center" src="https://nqraa.com/wp-content/uploads/2020/12/44-3.jpg" alt="Curawella" height="40" width="40" />
     </a>
