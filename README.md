@@ -2,7 +2,7 @@
 
 # Mostafa Mahmoud
 
-Hi there I'm Mostafa Mahmoud, Computer engineer, Developer, Entrepreneur, Co-Founder, and CTO.
+Hi there 👋 I'm Mostafa Mahmoud, Computer engineer, Developer, Entrepreneur, Co-Founder, and CTO.
 
 I've coding for more than 3 years.
 
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 ## WORKING EXPERIENCE
 
-### Curawella
+### CURAWELLA
 
 Online healthcare company providing software solutions for doctors, clinics, hospitals, and pharmaceutical companies. Filling the gap between the healthcare providers and the patients by creating an integrated comprehensive digital system that contributes to digitizing the patient’s journey, starting from presenting him to the physician in the specialized unit and creating a complete electronic medical record.
 
@@ -150,5 +150,42 @@ Contributed projects
     </a>
     <a href="https://digitalms-eg.com">
         <img align="center" src="https://digitalms-eg.com/static/media/msLogo.5d54a005.png" alt="DigitalMs" height="50" width="50" />
+    </a>
+</p>
+
+### NQRAA “CREATIVE CLICK”
+
+Creative Click was founded in Riyadh in 2016, providing a plethora of software services, including the design and implementation of different software applications. Creative click’s profile is the rife yet deliberate file in information technology, application workflows, and other technical services, which cover’s many sectors such as, education, government, private and medical sectors.
+
+Contributed as mid-senior react-native developer on the project of saudi tech QMS of Al-Madina Al-Monawara
+
+Technologies used
+
+<p>
+<!-- JavaScript -->
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
+
+<!-- React -->
+<img align="center" src="https://raw.githubusercontent.com/rexxars/react-hexagon/master/logo/react-hexagon.png" alt="React" height="40" width="40" />
+
+<!-- Android studio -->
+<img align="center" src="https://www.pngkit.com/png/full/259-2592742_clip-art-free-mobile-app-development-transprent-png.png" alt="android studio" height="40" width="80" />
+
+<!-- XCode -->
+<img align="center" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="xcode" height="40" width="40" />
+
+</p>
+
+Resources
+
+<p align="left">
+    <a href="https://nqraa.com/en/home-page/"><img align="center" src="https://www.pngkey.com/png/full/365-3652347_business-internet-communist-symbolism.png" alt="AppStore" height="30" width="30" /></a>
+</p>
+
+Contributed projects
+
+<p align="left">
+    <a href="https://nqraa.com/en/home-page/">
+        <img align="center" src="https://nqraa.com/wp-content/uploads/2020/12/44-3.jpg" alt="Curawella" height="40" width="40" />
     </a>
 </p>
