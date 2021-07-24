@@ -10,14 +10,18 @@ Currently, I am working with curawella as a software team leader trying to close
 
 Previously, I worked for multiple companies such as Nqraa "Creative Click" as a cross-platform mobile developer on the QMS of Al-Madina Al-Monawara, and multiple freelancing projects such as ELMahaily lawyer, and Chicken Corner
 
+## LOOKING TO CONTRIBUTE AND COLLABORATE
+
 I'm passionate about development, love to contribute. I believe that digitalization is the first step to become better, more organized, find the gap and problems, and fixing it. All the historical data that seems to be neglectable is more important than you think. If you are not sure where and how to start just contact me and let's do some research to fix your problems
 
 <!--
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
+
+## CURRENTLY WORKING ON
+
+Currently, besides my day to day job, I'm working on a personal project in the finance category let's call it "budget manager" for now, an app to manage your personal budget with, tracking your money, categorize it, predict your upcoming expenses, and even calculate your loan or credit card or zakah. All in one app, I'm targeting it to be your financial advisor, If you have any ideas or suggestions contact me and let's discuss it ;)
 
 ## REACH ME
 
@@ -88,7 +92,7 @@ I love contributing and helping, if you have any issues that I can help with don
 
 ## PUBLIC PACKAGES
 
-### General TypeScript lib
+### Typescript utils for js/ts
 
 <a href="https://www.npmjs.com/package/mmzaghlool"><img align="center" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm profile" height="40" width="60" /></a>
 <a href="https://github.com/mmzaghlool/js-lib"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="npm profile" height="40" width="60" /></a>
