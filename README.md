@@ -10,7 +10,7 @@ Currently, I am working with curawella as a software team leader trying to close
 
 Previously, I worked for multiple companies such as Nqraa "Creative Click" as a cross-platform mobile developer on the QMS of Al-Madina Al-Monawara, and multiple freelancing projects such as ELMahaily lawyer, and Chicken Corner
 
-## LOOKING TO CONTRIBUTE AND COLLABORATE
+## LET'S COLLABORATE
 
 I'm passionate about development, love to contribute. I believe that digitalization is the first step to become better, more organized, find the gap and problems, and fixing it. All the historical data that seems to be neglectable is more important than you think. If you are not sure where and how to start just contact me and let's do some research to fix your problems
 
@@ -21,7 +21,9 @@ I'm passionate about development, love to contribute. I believe that digitalizat
 
 ## CURRENTLY WORKING ON
 
-Currently, besides my day to day job, I'm working on a personal project in the finance category let's call it "budget manager" for now, an app to manage your personal budget with, tracking your money, categorize it, predict your upcoming expenses, and even calculate your loan or credit card or zakah. All in one app, I'm targeting it to be your financial advisor, If you have any ideas or suggestions contact me and let's discuss it ;)
+Currently, besides my day to day job, I'm working on a personal project in the finance category let's call it "budget manager" for now, an app to manage your personal budget with, tracking your money, categorize it, predict your upcoming expenses, and even calculate your loan or credit card or zakah. All in one app, I'm targeting it to be your financial advisor, If you have any ideas or suggestions contact me and let's discuss it 😉
+
+Next, I'm studying how to convert your personal financial advisor to your business financial advisor also, targeting small and medium businesses that have issues in financial management, I believe that not every business has the opportunity to have its own financial team, So how to fix this gap 🤔? Let's discuss it 😃
 
 ## REACH ME
 
@@ -110,7 +112,7 @@ I love contributing and helping, if you have any issues that I can help with don
 
 ### CURAWELLA
 
-Online healthcare company providing software solutions for doctors, clinics, hospitals, and pharmaceutical companies. Filling the gap between the healthcare providers and the patients by creating an integrated comprehensive digital system that contributes to digitizing the patient’s journey, starting from presenting him to the physician in the specialized unit and creating a complete electronic medical record.
+Digitizing healthcare, That's our mission; Curawella is an online healthcare company providing software solutions for doctors, clinics, hospitals, and pharmaceutical companies. Filling the gap between the healthcare providers and the patients by creating an integrated comprehensive digital system that contributes to digitizing the patient’s journey, starting from presenting him to the physician in the specialized unit and creating a complete electronic medical record
 
 Technologies used
 
