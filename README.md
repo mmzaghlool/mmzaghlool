@@ -10,19 +10,13 @@ Currently, I am working with curawella as a software team leader trying to close
 
 Previously, I worked for multiple companies such as Nqraa "Creative Click" as a cross-platform mobile developer on the QMS of Al-Madina Al-Monawara, and multiple freelancing projects such as ELMahaily lawyer, and Chicken Corner
 
+I'm passionate about development, love to contribute. I believe that digitalization is the first step to become better, more organized, find the gap and problems, and fixing it. All the historical data that seems to be neglectable is more important than you think. If you are not sure where and how to start just contact me and let's do some research to fix your problems
+
 <!--
-**mmzaghlool/mmzaghlool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## REACH ME
@@ -33,6 +27,10 @@ Here are some ideas to get you started:
 <a href="https://www.npmjs.com/~mmzaghlool"><img align="center" src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm profile" height="40" width="60" /></a>
 <a href="https://www.youtube.com/channel/UCb93KBjFv6rPdB-cggADtig"><img align="center" src="https://ricardoreadingmouse.com.au/wp-content/uploads/2018/04/youtube.png" alt="youtube channel" height="40" width="60" /></a>
 </p>
+
+## ASK ME
+
+I love contributing and helping, if you have any issues that I can help with don't hesitate to contact me any time and I'll help you as soon as possible, Looking forward to hear from you, I have worked for the past 3 years with the following languages and tools
 
 ## LANGUAGES and TOOLS
 
