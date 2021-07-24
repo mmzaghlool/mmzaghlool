@@ -97,6 +97,15 @@ Here are some ideas to get you started:
 
 ## WORKING EXPERIENCE
 
+1. [Curawella](#curawella)
+1. [Nqraa](#nqraa-creative-click)
+1. [Almhaily lawyer](#almhaily-lawyer)
+1. [Chicken corner](#chicken-corner)
+1. [Logistics](#logistics)
+1. [Class mate](#class-mate)
+1. [Go gas](#go-gas)
+1. [Graduation project "Career hub"](#graduation-project)
+
 ### CURAWELLA
 
 Online healthcare company providing software solutions for doctors, clinics, hospitals, and pharmaceutical companies. Filling the gap between the healthcare providers and the patients by creating an integrated comprehensive digital system that contributes to digitizing the patient’s journey, starting from presenting him to the physician in the specialized unit and creating a complete electronic medical record.
@@ -269,6 +278,68 @@ Resources
 <p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 100px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
     <a href="https://play.google.com/store/apps/developer?id=App+refactor+Corner"><img align="center" src="https://i.pinimg.com/originals/71/42/62/714262829697e9749a4aa86b3c1f5538.png" alt="PlayStore" height="40" width="40" /></a>
     <a href="https://apps.apple.com/eg/app/chicken-corner/id1508222632"><img align="center" src="https://i.pinimg.com/originals/02/b5/1d/02b51dc1b1a6daaabc891ae2da4afcd1.png" alt="AppStore" height="40" width="40" /></a>
+</p>
+
+<hr />
+
+### LOGISTICS
+
+Freelancing graduation project for students in Arab academy helps in transportation of the goods overseas
+
+Technologies used
+
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 350px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
+<!-- JavaScript -->
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
+
+<!-- React -->
+<img align="center" src="https://raw.githubusercontent.com/rexxars/react-hexagon/master/logo/react-hexagon.png" alt="React" height="40" width="40" />
+
+<!-- Android studio -->
+<img align="center" src="https://www.pngkit.com/png/full/259-2592742_clip-art-free-mobile-app-development-transprent-png.png" alt="android studio" height="40" width="80" />
+
+<!-- XCode -->
+<img align="center" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="xcode" height="40" width="40" />
+
+<!-- Firebase -->
+<img align="center" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase" height="40" width="40" />
+
+</p>
+
+<hr />
+
+### CLASS-MATE
+
+Freelancing graduation project for students in Oman helps in connecting Students with teachers.
+
+Technologies used
+
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 350px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
+
+<!-- Android studio -->
+<img align="center" src="https://www.pngkit.com/png/full/259-2592742_clip-art-free-mobile-app-development-transprent-png.png" alt="android studio" height="40" width="80" />
+
+<!-- Firebase -->
+<img align="center" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase" height="40" width="40" />
+
+</p>
+
+<hr />
+
+### GO-GAS
+
+Freelancing graduation project for students in Oman helps in connecting Students with teachers.
+
+Technologies used
+
+<p align="left" style="background-color:white; display: flex; justify-content: space-evenly; align-items: center; width: 350px; max-width: 90%; flex-wrap: wrap; padding: 5px; border-radius: 5px">
+
+<!-- Android studio -->
+<img align="center" src="https://www.pngkit.com/png/full/259-2592742_clip-art-free-mobile-app-development-transprent-png.png" alt="android studio" height="40" width="80" />
+
+<!-- Firebase -->
+<img align="center" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase" height="40" width="40" />
+
 </p>
 
 <hr />
